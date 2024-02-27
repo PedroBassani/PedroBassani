@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A Business Intelligence Analyst from Brazil</h3>
+<h3 align="center">A Data Analyst from Brazil</h3>
 
 - 🔭 I’m currently working on [London Bikes](https://github.com/PedroBassani/LondonBikes)
 
