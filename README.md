@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **pedrobassani98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ox-N5hDzo1xaLfqhXM7QgMH3PuNBrzWl/view?usp=sharing](https://drive.google.com/file/d/1ox-N5hDzo1xaLfqhXM7QgMH3PuNBrzWl/view?usp=sharing)
-
 - ⚡ Fun fact **I like cats**
 
 <h3 align="left">Connect with me:</h3>
